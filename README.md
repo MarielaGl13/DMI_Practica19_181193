@@ -17,7 +17,7 @@
 |  Característica |  Información |
 | :------------: | :------------: |
 | Nombre  |  Práctica 19: Importar y eliminar los datos de juegos y jugadores a la base de datos. |
-| Descripción  | Esta aplicación con el nombre de Api Rest para la aplicación del videojuego, es un CRUD que se conectara a la aplicación integradora, el cual se usa para referirse a las funciones básicas en bases de datos o la capa de persistencia en un software, en pocas palabras es un acrónimo para las maneras en las que se puede operar sobre información almacenada. Dicha API se ocupara para el juego guardianes de la flora|
+| Descripción  | Esta aplicación con el nombre de Api Rest para la aplicación del videojuego, es un CRUD que se conectara a la aplicación integradora, el cual se usa para referirse a las funciones básicas en bases de datos o la capa de persistencia en un software, en pocas palabras es un acrónimo para las maneras en las que se puede operar sobre información almacenada. Dicha API se ocupara para el juego abyssal dungeon|
 |  Fecha de Actividad  | 01 de diciembre del 2023  |
 
 &nbsp;
